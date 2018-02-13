@@ -1,4 +1,6 @@
 # Komiku
+![komiku_font](https://user-images.githubusercontent.com/16315641/36162642-903e5eb4-1119-11e8-8929-00317fcbebd6.png)
+
 Android Application - Image Processing to make your image into more **comic**
 
 **Features** :
