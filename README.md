@@ -15,4 +15,4 @@ Android Application - Image Processing to make your image into more **comic**
 * There is still any bug inside the apps
 
 **Note** 
-> _If you have any suggestion/improvement for the app, please contact me first to make an improvement acknowledged by your contribution_
+_If you have any suggestion/improvement for the app, please contact me first to make an improvement acknowledged by your contribution_
